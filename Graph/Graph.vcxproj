@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f87a0ecb-779d-4254-afd3-0566b8baa768}</ProjectGuid>
-    <RootNamespace>Graph2</RootNamespace>
+    <ProjectGuid>{c72839ff-d2b4-4ff1-8aa2-822cc83e587a}</ProjectGuid>
+    <RootNamespace>Graph</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Graph</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
