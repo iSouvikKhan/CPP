@@ -41,3 +41,8 @@ using namespace std;
 //
 //	return 0;
 //}
+
+int main() {
+	cout << "Graph";
+	return 0;
+}
